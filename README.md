@@ -1,5 +1,5 @@
 # Typing Contest
-When typing, be fast and furious.
+When typing, be fast and furious!
 
 ## Project Purpose
 
